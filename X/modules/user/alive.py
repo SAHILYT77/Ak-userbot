@@ -28,7 +28,7 @@ alive_logo = (
     gvarstatus("ALIVE_LOGO") or ""
 )
 emoji = gvarstatus("ALIVE_EMOJI") or "✧"
-alive_text = gvarstatus("ALIVE_TEKS_CUSTOM") or "✧✧ 𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 ✧✧✨"
+alive_text = gvarstatus("ALIVE_TEKS_CUSTOM") or "✧✧ 𝐀𝐊-𝐊𝐈𝐍𝐆-𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 ✧✧✨"
 
 
 @Client.on_message(filters.command(["alive", "awake"], cmd) & filters.me)
@@ -45,7 +45,7 @@ async def alip(client: Client, message: Message):
         f"{emoji} <b>𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽:</b> <code>{python_version()}</code> \n"
         f"{emoji} <b>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝚅𝙴𝚁𝚂𝙸𝙾𝙽:</b> <code>{versipyro}</code> \n"
         f"{emoji} <b>𝙱𝙾𝚃 𝚄𝙿𝚃𝙸𝙼𝙴:</b> <code>{uptime}</code> \n\n"
-        f"{emoji}✧[𝙶𝚁𝙾𝚄𝙿](https://t.me/Japanese_Userbot_Chat)** \n" 
+        f"{emoji}✧[𝙶𝚁𝙾𝚄𝙿](https://t.me/Ak_support1)** \n" 
         f"{emoji}✧[𝙲𝙷𝙰𝙽𝙽𝙴𝙻](https://t.me/+f9ZegEtS4U4wNDdl)** \n"
         f"{emoji}✧[𝙾𝚆𝙽𝙴𝚁](tg://user?id=6065568342)** \n"
     )

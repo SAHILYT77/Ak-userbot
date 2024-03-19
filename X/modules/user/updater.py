@@ -178,7 +178,7 @@ async def upstream(client: Client, message: Message):
         except GitCommandError:
             pass
         await status.edit(
-            "`Japanese X Userbot Updated Successfully! Userbot can be used again.`"
+            "`AK King Userbot Updated Successfully! Userbot can be used again.`"
         )
     else:
         try:
@@ -187,7 +187,7 @@ async def upstream(client: Client, message: Message):
             repo.git.reset("--hard", "FETCH_HEAD")
         await updateme_requirements()
         await status.edit(
-            "`Japanese X Userbot Updated Successfully! Userbot can be used again.`",
+            "`AK King Userbot Updated Successfully! Userbot can be used again.`",
         )
         args = [sys.executable, "-m", "X"]
         execle(sys.executable, *args, environ)
@@ -201,7 +201,7 @@ async def updaterman(client: Client, message: Message):
         if HAPP is None:
             return await edit_or_reply(
                 message,
-                "Make sure HEROKU_API_KEY and HEROKU_APP_NAME you are properly configured in heroku config vars",
+                "MAKe sure HEROKU_API_KEY and HEROKU_APP_NAME you are properly configured in heroku config vars",
             )
     response = await edit_or_reply(message, "Checking for available updates...")
     try:
@@ -256,7 +256,7 @@ async def updaterman(client: Client, message: Message):
 add_command_help(
     "update",
     [
-        ["update", "To see a list of the latest updates from Japanese-X-Userbot."],
+        ["update", "To see a list of the latest updates from AK-King-Userbot."],
         ["update deploy", "To update userbot."],
     ],
   )

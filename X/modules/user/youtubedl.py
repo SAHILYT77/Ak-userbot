@@ -184,7 +184,7 @@ async def saavn_dl(client: Client, message: Message):
         await client.send_audio(
             chat_id=message.chat.id,
             audio=file_name,
-            caption=f"Song from Saavan uploaded by Japanese XUserbot\nSong name: {title}\nSingers: {singers}",
+            caption=f"Song from Saavan uploaded by Ak KING Userbot\nSong name: {title}\nSingers: {singers}",
         )
         
         os.remove(file_name)
@@ -232,7 +232,7 @@ async def deezergeter(client: Client, message: Message):
 **Song Name:** {urlhp.get("title")}
 **Duration:** {urlhp.get('duration')} Seconds
 **Artist:** {polu.get("name")}
-Music downloaded and uploaded by Japanese X Userbot"""
+Music downloaded and uploaded by AK KING Userbot"""
     
     await rep.edit(f"`Downloaded {sname}! Now uploading song...`")
     

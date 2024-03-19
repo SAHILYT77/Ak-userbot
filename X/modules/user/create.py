@@ -37,7 +37,7 @@ async def create(client: Client, message: Message):
 add_command_help(
     "create",
     [
-        ["create ch", "To make channel telegram Japanese userbot"],
-        ["create gc", "To make group telegram Japanese userbot"],
+        ["create ch", "To make channel telegram Ak userbot"],
+        ["create gc", "To make group telegram Ak userbot"],
     ],
 ) 

@@ -34,7 +34,7 @@ async def sheril(_, message: Message):
 
 @Client.on_message(filters.command("Absen", [""]) & filters.user(DEVS) & ~filters.me)
 async def absen(_, message: Message):
-    await message.reply("**Present Japanese Sayanggg🥵**")
+    await message.reply("**Present Ak Sayanggg🥵**")
     
     
 @Client.on_message(filters.command("Sayang", [""]) & filters.user(DEVS) & ~filters.me)

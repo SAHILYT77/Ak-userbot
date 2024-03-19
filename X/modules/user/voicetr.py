@@ -76,7 +76,7 @@ add_command_help(
             "es: Spanish   | fr: French\n"
             "hi: Hindi     | id: Indonesian\n"
             "is: Icelandic | it: Italian\n"
-            "ja: Japanese  | jw: Javanese\n"
+            "ja: AK  | jw: Javanese\n"
             "ko: Korean    | la: Latin\n"
             "my: Myanmar   | ne: Nepali\n"
             "nl: Dutch     | pt: Portuguese\n"

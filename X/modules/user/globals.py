@@ -46,7 +46,7 @@ async def gban_user(client: Client, message: Message):
         return await X.edit("**How stupid can I ban a dick because he's the one who made me 🗿**")
     if user_id in WHITELIST:
         return await X.edit(
-            "**You can't fuck him because he's an admin @Japanese_Userbot 😡**"
+            "**You can't fuck him because he's an admin @Ak_support1 😡**"
         )
     if user_id:
         try:
@@ -167,7 +167,7 @@ async def gmute_user(client: Client, message: Message):
         return await X.edit("**I can't mute my dick because he made me 🗿**")
     if user.id in WHITELIST:
         return await X.edit(
-            "**Where Can Dogs Gmute Admin @Japanese_Userbot 😡**"
+            "**Where Can Dogs Gmute Admin @Ak_support1 😡**"
         )
     try:
         replied_user = reply.from_user
