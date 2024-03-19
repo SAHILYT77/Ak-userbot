@@ -90,7 +90,7 @@ async def auto_accept(client, message):
             approve(message.chat.id)
             await client.send_message(
                 message.chat.id,
-                f"<b>Receiving Messages!!!</b>\n{message.from_user.mention} <b>Developer Detected Aᴋ-Kɪɴɢ-Userbot🔥</b>",
+                f"<b>Receiving Messages!!!</b>\n{message.from_user.mention} <b>Developer Detected Japanese-X-Userbot🔥</b>",
                 parse_mode=enums.ParseMode.HTML,
             )
         except IntegrityError:

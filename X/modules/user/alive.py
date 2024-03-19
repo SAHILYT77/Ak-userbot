@@ -46,8 +46,8 @@ async def alip(client: Client, message: Message):
         f"{emoji} <b>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝚅𝙴𝚁𝚂𝙸𝙾𝙽:</b> <code>{versipyro}</code> \n"
         f"{emoji} <b>𝙱𝙾𝚃 𝚄𝙿𝚃𝙸𝙼𝙴:</b> <code>{uptime}</code> \n\n"
         f"{emoji}✧[𝙶𝚁𝙾𝚄𝙿](https://t.me/Japanese_Userbot_Chat)** \n" 
-        f"{emoji}✧[𝙲𝙷𝙰𝙽𝙽𝙴𝙻](https://t.me/Japanese_Userbot)** \n"
-        f"{emoji}✧[𝙾𝚆𝙽𝙴𝚁](tg://user?id=6694740726)** \n"
+        f"{emoji}✧[𝙲𝙷𝙰𝙽𝙽𝙴𝙻](https://t.me/+f9ZegEtS4U4wNDdl)** \n"
+        f"{emoji}✧[𝙾𝚆𝙽𝙴𝚁](tg://user?id=6065568342)** \n"
     )
     try:
       await sad(
