@@ -1,19 +1,19 @@
 class First:
     ALIVE = "`Still Working On Fire 🔥`"
     REPO = """
-**Hey**, __I am using__ ✨ **Japanese-X-Userbot** ✨
+**Hey**, __I am using__ ✨ **AK-KING-Userbot** ✨
 
 ✣ **Userbot Version :** `{}`
-✣ **Group Support :** [Japanese Userbot](t.me/Japanese_Userbot_Chat)
-✣ **Channel Japanese:** [Japanese Userbot](t.me/Japanese_Userbot)
-✣ **Owner Repo :** [NOBITA_XD](t.me/Nobitaa_xd)
-✣ **Repo :** [Japanese-X-Userbot](https://github.com/Japanese-Userbots/Japanese-X-Userbot)
+✣ **Group Support :** [Ak Userbot](t.me/Ak_support1)
+✣ **Ak Support:** [Ak Userbot](t.me/Ak_support1)
+✣ **Owner Repo :** [AK_OWNER](t.me/Alllllllllllllllllllllll)
+✣ **Repo :** [AK-KING-Userbot](t.me/Alllllllllllllllllllllll)
 
 
-Powered by [Japanese-X-Userbot](https://github.com/Japanese-Userbots/Japanese-X-Userbot)"""
-    CREATOR = 'I was created by my master <a href="https://github.com/Japanese-Userbots/Japanese-X-Userbot">Man</a> on a rainy day.'
+Powered by [AK-KING-Userbot](t.me/Alllllllllllllllllllllll)"""
+    CREATOR = 'I was created by my master <a href="t.me/Alllllllllllllllllllllll">Man</a> on a rainy day.'
     MSG_ON = """
-🐣 **𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞-𝐗-𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲** 🐣
+🐣 **𝐀𝐊-𝐊𝐈𝐍𝐆-𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲** 🐣
 ━━
 ➠ **𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 -** `{}`
 ➠ **𝐓𝐲𝐩𝐞** `{}𝐩𝐢𝐧𝐠` **𝐭𝐨 𝐜𝐡𝐞𝐜𝐤 𝐁𝐨𝐭**

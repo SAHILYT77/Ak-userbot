@@ -86,7 +86,7 @@ def inline_wrapper(func):
                         InlineQueryResultArticle(
                             title="Sorry, You Must Be A Sudo User To Use Me!",
                             input_message_content=InputTextMessageContent(
-                                "Or you can make it yourself at @Japanese_Userbot"
+                                "Or you can make it yourself at @Ak_support1"
                             ),
                         )
                     )
